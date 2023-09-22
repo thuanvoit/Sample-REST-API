@@ -1,0 +1,16 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "rest assignment cs3300 _ Thuan Vo",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2",
+    "joi": "^17.10.2"
+  }
+}
